@@ -8,3 +8,5 @@ Logictic Regression is a supervised machine learning algorithm that gets trained
 
 ### Output Visualization
 ![Unknown](https://github.com/Farial-mahmod/Nuclear-Energy-Generation-Prediction-Logistic-Regression/assets/60639522/73cc384b-5bb6-4db9-b616-0b3b8edce626)
+
+The project is available on Kaggle: https://www.kaggle.com/code/farialmahmod/nuclear-energy-generation-prediction-logisticreg
